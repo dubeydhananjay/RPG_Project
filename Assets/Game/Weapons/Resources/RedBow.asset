@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a149ab2ed50a548a8fb56160bc82d7, type: 3}
+  m_Name: RedBow
+  m_EditorClassIdentifier: 
+  equippedWeaponPrefab: {fileID: 4402985643126475274, guid: a91075b38a771bb42a527ed7e5a6c53f, type: 3}
+  animatorOverrideController: {fileID: 22100000, guid: e05145a30acd0994c915f71c3a3dc4d0, type: 2}
+  weaponRange: 10
+  weaponDamage: 5
+  percentageBonus: 0
+  isRightHanded: 0
+  projectile: {fileID: 7402908865714191741, guid: 3c2051b8cf13cad47bee2390dae2ab50, type: 3}
